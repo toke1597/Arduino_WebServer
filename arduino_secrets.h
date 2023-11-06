@@ -1,3 +1,3 @@
-#define SECRET_SSID "iptime"
-#define SECRET_PASS "abc54321"
+#define SECRET_SSID ""
+#define SECRET_PASS ""
 
